@@ -182,7 +182,7 @@ export const encoded = [
     unitId: "82226",
     platformId: "145868",
     budgetId: null,
-    adPlatformId: "1557",
+    adPlatformId: "1557", //
     service: null,
     formatSize: "не применим",
     ca: null,
@@ -220,7 +220,7 @@ export const encoded = [
     resellingId: "18842",
     serviceTypeId: "124",
     formatTypeId: "15152",
-    formatId: "82193",
+    formatId: "82193", //
     unitId: "82226",
     platformId: "0",
     budgetId: null,
